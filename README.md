@@ -17,6 +17,6 @@ What does the data indicate about tobacco use:
 
 **Second, based on initial results, define evaluative questions that may be answered through more in depth analysis...**
 
-- Does the data provide clues as to why tobacco use has become more or less prevalent about time?
+- Does the data provide clues as to why tobacco use has become more or less prevalent over time?
 - Does the data reveal meaningful information about differences in tobacco use among various demographics?
 - Does analysis lead to new questions that might be answered with additional data?
