@@ -1,7 +1,9 @@
-# Percent_of_Adult_Current_Smokers_by_Sex_and_Race_Ethnicity__1995-2010
+# Percent of Adult Current Smokers by Sex and Race/Ethnicity, 1995-2010
 
 ## Source
-[Location]()
+[Data.gov - State of Maryland - data.maryland.gov](https://catalog.data.gov/dataset/percent-of-adult-current-smokers-by-sex-and-race-ethnicity-1995-2010-4e337)
+
+Adults are defined as 18 years of age and older. The CDC defines a "Current Smoker" as an adult who has smoked at least 100 cigarettes (5 packs) in their lifetime and currently smokes either "Every Day" or "Some Days." BRFSS data methodology changed in 2011; therefore, 2011 and after is not comparable to 2010 data and before.
 
 ## Variables
 Calendar.Years  
