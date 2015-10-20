@@ -6,6 +6,10 @@
 [The Tax Burden on Tobacco Volume 49, 1970-2014](https://github.com/gpspake/mis7190-group-project/tree/master/scripts/The_Tax_Burden_on_Tobacco_Volume_49__1970-2014)   
 [Tobacco Sold to Minors, California, 1997-2014](https://github.com/gpspake/mis7190-group-project/tree/master/scripts/Tobacco_Sold_to_Minors__California__1997-2014)   
 [Youth Tobacco Survey (YTS) Data 1999-2013](https://github.com/gpspake/mis7190-group-project/tree/master/scripts/Youth_Tobacco_Survey__YTS__Data)
+
+## Problem Statement
+"Tobacco use is the leading preventable cause of death in the United States." [[1](http://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/tobacco_related_mortality/)] As the health risks and costs associated with tobacco use have become more widely known, interest in effective cessation of tobacco use has grown. To understand the effectiveness of cessation efforts, it is important to understand trends related to tobacco use. Fortunately, there is a great deal quality data available related to tobacco use. By measuring this data, we can begin to consider the effectiveness of cessation programs and look for other factors that affect tobacco use.
+
 ## Business Questions
 **First, analyze limited data and create visualizations to reveal trends...**
 
