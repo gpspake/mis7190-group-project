@@ -18,4 +18,4 @@ GeoLocation
 Source  
 TopicTypeId  
 TopicId  
-MeasureId"  
+MeasureId
