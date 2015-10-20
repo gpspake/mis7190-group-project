@@ -1,4 +1,4 @@
-# Youth Tobacco Survey (YTS) Data 1993-2013
+# Youth Tobacco Survey (YTS) Data 1999-2013
 
 ## Source
 [CDC - Chronic Disease and Health Promotion Data & Indicators](https://chronicdata.cdc.gov/Survey-Data/Youth-Tobacco-Survey-YTS-Data/4juz-x2tp)
@@ -34,4 +34,4 @@ MeasureId
 StratificationID1  
 StratificationID2  
 StratificationID3  
-StratificationID4  
+StratificationID4
