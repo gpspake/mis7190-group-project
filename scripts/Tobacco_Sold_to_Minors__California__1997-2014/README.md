@@ -10,3 +10,7 @@ Year
 % Illegal.Tobacco.Sales.to.Minors  
 Lower.95..Confidence.Interval    
 Upper.95..Confidence.Interval  
+
+## Visualization
+![Percentage of stores that sold tobacco to minors](https://raw.githubusercontent.com/gpspake/mis7190-group-project/master/scripts/Tobacco_Sold_to_Minors__California__1997-2014/percentage_stores_by_year_plot.png)
+
