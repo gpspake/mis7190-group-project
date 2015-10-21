@@ -24,3 +24,11 @@ What does the data indicate about tobacco use:
 - Does the data provide clues as to why tobacco use has become more or less prevalent over time?
 - Does the data reveal meaningful information about differences in tobacco use among various demographics?
 - Does analysis lead to new questions that might be answered with additional data?
+
+## Organization and File Structure
+Each data set has its own directory that includes:
+- readme that includes the data source, a description of the data, and visualizations
+- data set in csv format
+- an example.r script that reads the data set to a variable, using a path relative to the file, to be used as a template
+- any additional scripts that have been created to analyze the data
+- screenshots of visualizations that correspond to scripts
