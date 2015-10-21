@@ -18,3 +18,22 @@ Male..Hispanic.Smokers
 Female..White.Non.Hispanic.Smokers.  
 Female..Black.Non.Hispanic.Smokers.  
 Female..Hispanic.Smokers"  
+
+## Visualizations
+### Smokers by gender
+![percentage_smokers_by_gender](https://raw.githubusercontent.com/gpspake/mis7190-group-project/master/scripts/Percent_of_Adult_Current_Smokers_by_Sex_and_Race_Ethnicity__1995-2010/percentage_smokers_by_gender.png)
+
+### Smokers by race
+![percentage_smokers_by_race](https://raw.githubusercontent.com/gpspake/mis7190-group-project/master/scripts/Percent_of_Adult_Current_Smokers_by_Sex_and_Race_Ethnicity__1995-2010/percentage_smokers_by_race.png)
+
+### Female smokers by race
+![percentage_female_smokers_by_race](https://raw.githubusercontent.com/gpspake/mis7190-group-project/master/scripts/Percent_of_Adult_Current_Smokers_by_Sex_and_Race_Ethnicity__1995-2010/percentage_female_smokers_by_race.png)
+
+### Male smokers by race
+![percentage_male_smokers_by_race](https://raw.githubusercontent.com/gpspake/mis7190-group-project/master/scripts/Percent_of_Adult_Current_Smokers_by_Sex_and_Race_Ethnicity__1995-2010/percentage_male_smokers_by_race.png)
+
+### Hispanic smokers by gender
+![hispanic_smokers_by_gender](https://raw.githubusercontent.com/gpspake/mis7190-group-project/master/scripts/Percent_of_Adult_Current_Smokers_by_Sex_and_Race_Ethnicity__1995-2010/hispanic_smokers_by_gender.png)
+
+
+
