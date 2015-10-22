@@ -34,7 +34,7 @@ Each data set has its own directory that includes:
 - screenshots of visualizations that correspond to scripts
 
 ## Team D Members
-Rheka Atluri  
-Harp Singh  
-George Spake  
-Sungjin Yoo  
+- Rheka Atluri  
+- Harp Singh  
+- George Spake  
+- Sungjin Yoo  
