@@ -32,3 +32,9 @@ Each data set has its own directory that includes:
 - an example.r script that reads the data set to a variable, using a path relative to the file, to be used as a template
 - any additional scripts that have been created to analyze the data
 - screenshots of visualizations that correspond to scripts
+
+## Team D Members
+Rheka Atluri  
+Harp Singh  
+George Spake  
+Sungjin Yoo  
